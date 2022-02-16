@@ -1,0 +1,2 @@
+# patikaprojects
+Algoritmalar
